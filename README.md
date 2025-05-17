@@ -1,11 +1,11 @@
-Frontend da Lista de Tarefas em Tempo Real
+<h1>Frontend da Lista de Tarefas em Tempo Real</h1>
 
-Resumo da aplicação
+<h3>Resumo da aplicação</h3>
 
 Esta aplicação desenvolvida em React.js para uma lista de tarefas colaborativa com atualização em tempo real. Os usuários podem adicionar, listar, marcar como concluídas e excluir tarefas, e todas as ações são sincronizadas instantaneamente entre os clientes conectados, usando WebSocket (Socket.IO).
 
 
-Tecnologias utilizadas
+<h3>Tecnologias utilizadas</h3>
 React.js — biblioteca JavaScript para construção da interface de usuário.
 
 Socket.IO-client — para comunicação em tempo real com o backend via WebSocket.
@@ -37,7 +37,7 @@ npm start
 http://localhost:3000
 
 
-<h1>Testes</h1>
+<h3>Testes</h3>
 
 para executar os testes siga as instruções
 
