@@ -1,7 +1,8 @@
 Frontend da Lista de Tarefas em Tempo Real
 
 Resumo da aplicação
-Esta aplicação é um frontend desenvolvido em React.js para uma lista de tarefas colaborativa com atualização em tempo real. Os usuários podem adicionar, listar, marcar como concluídas e excluir tarefas, e todas as ações são sincronizadas instantaneamente entre os clientes conectados, usando WebSocket (Socket.IO).
+
+Esta aplicação desenvolvida em React.js para uma lista de tarefas colaborativa com atualização em tempo real. Os usuários podem adicionar, listar, marcar como concluídas e excluir tarefas, e todas as ações são sincronizadas instantaneamente entre os clientes conectados, usando WebSocket (Socket.IO).
 
 
 Tecnologias utilizadas
@@ -34,4 +35,24 @@ npm start
 6. Acesse no navegador o endereço:
 
 http://localhost:3000
+
+
+<h1>Testes</h1>
+
+para executar os testes siga as instruções
+
+1. Navegue até a pasta do projeto:
+
+cd frontend
+cd src  
+cd components
+
+2.Execute o comando:
+
+npm test
+
+
+
+
+
 
