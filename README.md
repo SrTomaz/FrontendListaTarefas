@@ -18,20 +18,17 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone este repositório com:
 
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/SrTomaz/FrontendListaTarefas.git
 
 2. Navegue até a pasta do projeto:
 
-cd nome-do-projeto-frontend
+cd frontend
 
-3. Instale as dependências com:
-
-npm install
-
-4. Certifique-se que o backend está rodando localmente (geralmente na porta 3000).
+3. Instale as dependências:
+npm install axios socket.io-client
+npm install --save-dev @testing-library/react @testing-library/jest-dom
 
 5. Inicie o frontend com:
-
 npm start
 
 6. Acesse no navegador o endereço:
