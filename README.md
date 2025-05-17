@@ -52,6 +52,11 @@ cd components
 npm test
 
 
+<h3>Observação</h3>
+subimos o front no vercel:
+https://frontend-lista-tarefas.vercel.app/
+
+
 
 
 
